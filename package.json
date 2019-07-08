@@ -1,0 +1,28 @@
+{
+  "name": "array-challenges",
+  "version": "1.0.0",
+  "description": "# Marty's notes:",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepuckett86/array-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sepuckett86/array-challenges/issues"
+  },
+  "homepage": "https://github.com/sepuckett86/array-challenges#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "jest": "^24.8.0"
+  }
+}
